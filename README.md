@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-<h1 align="center">¡Hey developeres! 👋 Soy Ayrton Bolaños</h1>
+<h1 align="center">¡Hey developers! 👋 Soy Ayrton Bolaños</h1>
 <p align="center">
   <img src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Imagen de programación">
 </p>
@@ -7,11 +7,19 @@
 <!-- Presentación -->
 <p align="center">Originario de Veracruz, México 🌮, soy un diseñador y desarrollador web apasionado por la creación de interfaces de usuario atractivas y funcionales. Bienvenidos a mi perfil de GitHub, donde encontrarás una variedad de proyectos y recursos relacionados con el desarrollo FrontEnd. 💻</p>
 
+<!-- Datos Personales -->
+## Datos de vital importancia
+- Códoba, Ver.
+- Ingeniero de Software
+- Mentor de Desarrollo Web Jr
+- Mentor de Programación Jr
+- FrontEnd Developer Jr
+
 <!-- Proyectos Destacados -->
 ## Mis Proyectos Favoritos
-- [Book Python](https://github.com/ayrtonbolwal/book-learn-py): Libro de actividades de Python.
-- [Book Javascript](https://github.com/ayrtonbolwal/book-learn-js): Libro de actividades de Javascript.
-- [Book POO-TS](https://github.com/ayrtonbolwal/book-learn-poo-ts): Programación Orientada a Objetos con TS.
+- [Book Python](https://github.com/ayrtonbolwal/book-learn-py): Libro de actividades de Python 🐍
+- [Book Javascript](https://github.com/ayrtonbolwal/book-learn-js): Libro de actividades de Javascript 🟨
+- [Book POO-TS](https://github.com/ayrtonbolwal/book-learn-poo-ts): Programación Orientada a Objetos con TS 🟦
 
 <!-- Secciones de Trabajo -->
 ## Mi Trabajo en GitHub
